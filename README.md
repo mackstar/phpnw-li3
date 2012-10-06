@@ -38,4 +38,6 @@ Needs MongoDb
 	
 ## Docs library ##
 
+Needs to be in a 'phpnw' named directory at root.
+
 	/phpnw/app/docs/
